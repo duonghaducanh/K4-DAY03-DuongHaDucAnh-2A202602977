@@ -1,8 +1,8 @@
 # 📊 BÁO CÁO THU HOẠCH NGHIỆM THU BÀI LAB 3 (BƯỚC 3 — SUBMISSION ARTIFACT)
 
-> **Họ và Tên Học viên:** [Điền Họ và Tên]  
-> **Mã Sinh Viên / Mã Học viên:** [Điền MSSV]  
-> **Chủ đề Lựa chọn:** [Điền tên chủ đề đã chọn từ docs/DANH_SACH_DE_TAI.md hoặc Đề tài Mở]  
+> **Họ và Tên Học viên:** Duong Ha Duc Anh  
+> **Mã Sinh Viên / Mã Học viên:** 2A202602977  
+> **Chủ đề Lựa chọn:** Trợ lý Học vụ & Tra cứu Lịch thi VinUni  
 
 ---
 
@@ -10,11 +10,11 @@
 
 | Tiêu chí Đánh giá | Mức độ (1 - 5) | Giải trình chi tiết lý do chọn điểm |
 | :--- | :---: | :--- |
-| **1. Multi-step Reasoning** | / 5 | Bài toán có yêu cầu chia nhỏ nhiều bước suy luận nối tiếp nhau không? |
-| **2. Tool Interaction** | / 5 | Hệ thống có cần kết nối với MCP Server / Cơ sở dữ liệu bên ngoài không? |
-| **3. Dynamic Decision** | / 5 | Bước tiếp theo có phụ thuộc vào kết quả quan sát bước trước không? |
-| **4. Long Horizon Goal** | / 5 | Hệ thống có phải giữ mục tiêu xuyên suốt qua nhiều lượt xử lý không? |
-| **TỔNG ĐIỂM AGENTIC FIT** | **/ 20** | *Nếu tổng điểm > 12/20: Bài toán rất phù hợp triển khai Agentic System.* |
+| **1. Multi-step Reasoning** | 5 / 5 | Agent có thể tra cứu hồ sơ trước rồi dùng cố vấn nhận được để đặt lịch tư vấn. |
+| **2. Tool Interaction** | 5 / 5 | Agent cần gọi các công cụ tra cứu và đặt lịch qua MCP Server. |
+| **3. Dynamic Decision** | 5 / 5 | Thông tin cố vấn từ kết quả tra cứu quyết định tham số cho bước đặt lịch. |
+| **4. Long Horizon Goal** | 4 / 5 | Mục tiêu đặt lịch cần duy trì ngữ cảnh qua nhiều bước, nhưng phạm vi quy trình còn ngắn. |
+| **TỔNG ĐIỂM AGENTIC FIT** | **19 / 20** | *Chủ đề rất phù hợp triển khai Agentic System.* |
 
 ---
 
